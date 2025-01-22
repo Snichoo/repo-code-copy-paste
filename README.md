@@ -76,12 +76,4 @@ http://localhost:5000
 - Implement additional security measures before deploying in a production environment
 - Be cautious with file permissions when using in shared environments
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-[Your chosen license]
-
 ```
